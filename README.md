@@ -2,6 +2,15 @@
 
 A Flutter plugin of talk_cloud sdk.
 
+### 添加依赖
+
+```dart
+flutter_tky:
+    git:
+        url: https://github.com/xSILENCEx/flutter_tky
+        ref: master
+```
+
 ### 进入教室
 
 ```dart
