@@ -1,0 +1,12 @@
+/*
+ Meetings.strings
+ Meetings
+ 
+ Created by macmini on 15/2/3.
+ Copyright (c) 2015年 macmini. All rights reserved.
+ */
+
+"TKPreload.downloading" = "正在載入教材";
+"TKPreload.unzipping"   = "正在解壓縮教材";
+"TKPreload.skip"        = "跳過";
+"tool.noUse" = "還未開始上課，暫不能使用工具箱功能";

@@ -1,0 +1,12 @@
+/*
+ Meetings.strings
+ Meetings
+ 
+ Created by macmini on 15/2/3.
+ Copyright (c) 2015年 macmini. All rights reserved.
+ */
+
+"TKPreload.downloading" = "코스웨어 로드 중";
+"TKPreload.unzipping" = "코스웨어 압축 풀기";
+"TKPreload.skip" = "건너뛰기";
+"tool.noUse" = "클래스가 아직 시작되지 않았으며 도구 상자 기능을 일시적으로 사용할 수 없습니다.";

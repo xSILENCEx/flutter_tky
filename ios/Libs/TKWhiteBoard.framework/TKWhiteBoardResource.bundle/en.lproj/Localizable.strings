@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  libMeetings
+
+  Created by miniMac on 16/2/24.
+  Copyright © 2016年 macmini. All rights reserved.
+*/
+
+"TKPreload.downloading" = "file downloading";
+"TKPreload.unzipping"   = "unzipping the file";
+"TKPreload.skip"        = "skip";
+"tool.noUse" = "Class hasn't started yet. The toolbox function can't be used temporarily";
