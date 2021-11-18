@@ -7,12 +7,12 @@ A Flutter plugin of talk_cloud sdk.
 ```dart
 FlutterTky.joinRoom(TkyRoomObj.fromJson(<String, dynamic>{
     'serial': 'xxxxx',//serial
-    'userrole': '2',
-    'host': '/global.talk-cloud.net',
-    'server': 'global',
-    'port': '443',
+    'userrole': 'x',//userrole
+    'host': 'xxx',//host
+    'server': 'xxx',//server
+    'port': 'xxx',//port
     'nickname': 'xx',//nickname
-    'clientType': '2',//clientType
+    'clientType': 'xx',//clientType
     'userid': 'xxx',//userid
 }));
 ```
@@ -33,3 +33,5 @@ FlutterTky.setHandler();
 
 [Android](https://showdoc.talk-cloud.com/web/#/116)  
 [IOS](https://showdoc.talk-cloud.com/web/#/115)
+
+### 接入所需参数请联系拓课云

@@ -33,12 +33,12 @@ class _MyAppState extends State<MyApp> {
                 onPressed: () {
                   FlutterTky.joinRoom(TkyRoomObj.fromJson(<String, dynamic>{
                     'serial': 'xxxxx',
-                    'userrole': '2',
-                    'host': '/global.talk-cloud.net',
-                    'server': 'global',
-                    'port': '443',
+                    'userrole': 'x',
+                    'host': 'xxxxx',
+                    'server': 'xxx',
+                    'port': 'xx',
                     'nickname': 'xx',
-                    'clientType': '2',
+                    'clientType': 'x',
                     'userid': 'xxx',
                   }));
                 },

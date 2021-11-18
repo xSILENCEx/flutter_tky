@@ -1,7 +1,7 @@
 name: flutter_tky
 description: A new Flutter plugin of talk_cloud sdk, basically realized all functions and features.
 version: 0.0.1
-homepage: 
+homepage: https://github.com/xSILENCEx/flutter_tky
 publish_to: 'https://pub.dev'
 
 environment:
