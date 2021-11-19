@@ -11,6 +11,8 @@ flutter_tky:
         ref: master
 ```
 
+> 注意：IOS需要添加必要权限
+
 ### 进入教室
 
 ```dart
